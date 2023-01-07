@@ -1,0 +1,6 @@
+site_name: Test
+
+docs_dir: src
+
+theme:
+  name: material

@@ -1,6 +1,8 @@
 # jupyter-pages-demo
 
-A demo for [Jupyter to Github pages action](https://github.com/marketplace/actions/convert-jupyter-notebooks-to-github-pages)
+[DEMO HERE](https://victor-public.github.io/jupyter-pages-demo/)
+
+This repo is a demo for [Jupyter to Github pages action](https://github.com/marketplace/actions/convert-jupyter-notebooks-to-github-pages)
 
 ## How to update the notebooks
 
